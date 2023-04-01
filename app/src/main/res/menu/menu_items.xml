@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/Cart"
+        android:title="Go to Cart"
+        android:icon="@drawable/cart_icon"/>
+
+    <item android:id="@+id/add_grocery"
+        android:title="Add Items"
+        android:icon="@drawable/shop_icon"/>
+
+    <item android:id="@+id/removeitems"
+        android:title="Remove Items"
+        android:icon="@drawable/remove_icon"/>
+</menu>
